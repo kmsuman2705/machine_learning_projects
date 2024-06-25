@@ -7,7 +7,7 @@ from typing import List
 
 PROJECT_NAME="housing-predictor"
 
-VERSION="0.0.1"
+VERSION="0.0.4"
 AUTHOR="SUMAN MISHRA"
 DESCRIPTION="This is a first FSDS June Month Machine Learning Project"
 PACKAGES=["housing"]
